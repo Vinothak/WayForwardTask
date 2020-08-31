@@ -12,6 +12,6 @@ function progress(){
           prog.style.width=progress+'px';
           percent.innerHTML=counter+'%';
       }
-    },50);
+    },100);
 }
 
